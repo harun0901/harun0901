@@ -1,4 +1,5 @@
-Hi 👋,
+Hi 👋
+
 Thanks for visiting my profile.
 I’ve operated as a senior web and software developer for the 5 years. Combined with my B.Sc. in Computer science, those years have allowed me to build skills as a full-stack developer, 
 specializing in writing smart contracts for DeFi, ERC-20, ERC-721 tokens and dApps as well as full stack web development 
@@ -8,7 +9,7 @@ My blockchain experience is extensive, having worked with blockchain since 2018.
 I have built DeFis, Dapps, Token and NFT minting projects, as well as having worked with smart contracts in Solidity and Rust.
 
 I am well-versed in the following programming languages:
-PHP, Javascript, Solidity, python, Rust, C/C++/C#.
+PHP, Javascript, Node JS, Solidity, python, Rust, C/C++/C#.
 
 also the following frameworks and library:
 Angular, React, Next, Laravel, Express, Nest, Truffle, Remix, openzeppelin and Ether JS, web3 JS, Solana web3 JS.
